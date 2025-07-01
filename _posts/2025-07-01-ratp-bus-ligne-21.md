@@ -5,9 +5,9 @@ categories: [ travel ]
 image: assets/images/bus-21-de-ratp.jpg
 ---
 
-La ligne de bus 21 de la RATP est une ligne importante à Paris, exploitée par la RATP. Elle circule entre Stade Charléty - Porte de Gentilly, au sud, et Porte de Saint-Ouen - Hôpital Bichat, au nord. Elle compte 35 arrêts et dessert de vastes zones de Paris comme le Parc Montsouris, le Luxembourg, Saint-Michel, le Louvre, l’Opéra et la Place de Clichy, offrant un accès à des attractions telles que le Musée du Louvre, le Palais Royal et la Gare Saint-Lazare.  
+La ligne de bus 21 de la RATP est une ligne importante à Paris, exploitée par la RATP. Elle circule entre Stade Charléty - Porte de Gentilly, au sud, et Porte de Saint-Ouen - Hôpital Bichat, au nord.  
 
-La ligne 21 est appréciée des navetteurs, des étudiants et des touristes grâce à sa fréquence et à son itinéraire stratégique traversant le centre de Paris.
+Elle compte 35 arrêts et dessert de vastes zones de Paris comme le Parc Montsouris, le Luxembourg, Saint-Michel, le Louvre, l’Opéra et la Place de Clichy, offrant un accès à des attractions telles que le Musée du Louvre, le Palais Royal et la Gare Saint-Lazare. La ligne 21 est appréciée des navetteurs, des étudiants et des touristes grâce à sa fréquence et à son itinéraire stratégique traversant le centre de Paris.
 
 | **Nom de la ligne**              | 21                                                                 |
 |----------------------------------|---------------------------------------------------------------------|
@@ -111,4 +111,6 @@ Oui, mais avec un horaire réduit (consultez la RATP pour les mises à jour).
 
 ## Conclusion
 
-La ligne de bus 21 de la RATP est un moyen de transport rapide et confortable à Paris, reliant Porte de Gentilly et Porte de Saint-Ouen, tout en traversant les principales attractions et nœuds de transport. Avec ses départs fréquents et ses connexions faciles avec le métro/RER, elle est idéale pour les usagers quotidiens comme pour les touristes.  Pour des mises à jour en temps réel, utilisez l’application RATP ou Moovit.  Pour un trajet plus agréable, évitez les heures de pointe (8h–10h et 17h–19h).  Bon voyage !
+La ligne de bus 21 de la RATP est un moyen de transport rapide et confortable à Paris, reliant Porte de Gentilly et Porte de Saint-Ouen, tout en traversant les principales attractions et nœuds de transport.  
+
+Avec ses départs fréquents et ses connexions faciles avec le métro/RER, elle est idéale pour les usagers quotidiens comme pour les touristes.  Pour des mises à jour en temps réel, utilisez l’application RATP ou Moovit.  Pour un trajet plus agréable, évitez les heures de pointe (8h–10h et 17h–19h).  Bon voyage !
