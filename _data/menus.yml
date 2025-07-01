@@ -1,10 +1,10 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Page d'accueil
   url: ""
 
-- title: About
+- title: À Propos
   url: "about/"
 
 - title: Contact
@@ -18,15 +18,15 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Page d'accueil
   url: ""
 
-- title: Privacy Policy
+- title: Politique de Confidentialité
   url: "privacy-policy/"
 
 - title: Contact
   url: "contact/"
 
-- title: Download
+- title: Télécharger
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
   external: true
