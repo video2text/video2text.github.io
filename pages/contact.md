@@ -23,9 +23,23 @@ Vous représentez une autorité de transport, une collectivité locale ou un pro
 
 Contactez-nous à l’adresse suivante : `partenariats@horairesbus.github.io`
 
-## Réseaux Sociaux
+## Formulaire de Contact
 
-Nous ne sommes pas encore présents sur les réseaux sociaux, mais cela pourrait bientôt changer. Restez connectés !
+<form action="https://formspree.io/{{site.email}}" method="POST">    
+<p class="mb-4">Merci de votre intérêt pour notre site. Veuillez nous envoyer votre message via ce formulaire. Nous vous répondrons dans les plus brefs délais.</p>
+
+<div class="form-group row">
+  <div class="col-md-6">
+    <input class="form-control" type="text" name="name" placeholder="Nom*" required>
+  </div>
+  <div class="col-md-6">
+    <input class="form-control" type="email" name="_replyto" placeholder="Adresse e-mail*" required>
+  </div>
+</div>
+
+<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
+<input class="btn btn-dark" type="submit" value="Envoyer">
+</form>
 
 ---
 
