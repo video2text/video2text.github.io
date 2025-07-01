@@ -5,16 +5,28 @@ permalink: /contact
 comments: false
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">Thank you for your interest in getting in touch with us. Please send your message here. We will reply as soon as possible!</p>
-<div class="form-group row">
-<div class="col-md-6">
-<input class="form-control" type="text" name="name" placeholder="Name*" required>
-</div>
-<div class="col-md-6">
-<input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required>
-</div>
-</div>
-<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
-<input class="btn btn-dark" type="submit" value="Send">
-</form>
+# Contact
+
+Vous avez une question, une remarque ou un signalement à faire concernant les horaires ou les itinéraires affichés sur notre site ? Nous sommes à votre écoute.
+
+## Nous Écrire
+
+Pour toute demande d'information, suggestion d'amélioration ou notification d'erreur, vous pouvez nous contacter par email :
+
+**Email** : `contact@horairesbus.github.io`
+
+Nous nous efforçons de répondre à tous les messages dans un délai de 24 à 48 heures.
+
+## Collaboration et Partenariats
+
+Vous représentez une autorité de transport, une collectivité locale ou un projet lié à la mobilité ? Nous sommes ouverts aux collaborations visant à améliorer l'accessibilité des données de transport en commun.
+
+Contactez-nous à l’adresse suivante : `partenariats@horairesbus.github.io`
+
+## Réseaux Sociaux
+
+Nous ne sommes pas encore présents sur les réseaux sociaux, mais cela pourrait bientôt changer. Restez connectés !
+
+---
+
+**Horaires Bus** — Simplifions vos trajets ensemble.
