@@ -4,19 +4,35 @@ title: About
 comments: true
 ---
 
-This   website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+# À propos de Nous
 
-**License & Download**
+Bienvenue sur **Horaires Bus** — votre portail en ligne dédié aux itinéraires et horaires des bus en France.
 
-"Affiliates" for Jekyll is designed and developed by WowThemes.net and it is *free* for personal use.
+## Notre Mission
 
-<a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" target="_blank">Download - Affiliates Jekyll Theme</a>
+Chez **Horaires Bus**, notre objectif est clair : offrir une plateforme accessible, rapide et conviviale pour consulter les horaires des bus dans toutes les régions de France. Nous sommes convaincus que l'accès à l'information sur les transports publics est essentiel pour une mobilité fluide et inclusive.
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
+## Ce que Nous Proposons
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
+- Horaires à jour pour les lignes de bus régionales et urbaines
+- Itinéraires détaillés avec correspondances possibles
+- Informations sur les arrêts les plus proches
+- Mise à jour continue des données pour garantir leur fiabilité
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
+## Nos Engagements
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
+- Interface simple et adaptée à tous les appareils
+- Accès libre et sans inscription
+- Mise en valeur des lignes locales parfois négligées par d'autres services
+- Une plateforme pensée entièrement pour les usagers francophones
 
+## Nous Contacter
+
+Vous avez une suggestion, une erreur à signaler ou une idée à partager ? N'hésitez pas à nous écrire.
+
+Email : `contact@horairesbus.github.io`  
+Site web : [horairesbus.github.io](https://horairesbus.github.io)
+
+---
+
+Merci de votre confiance. L'équipe **Horaires Bus**
