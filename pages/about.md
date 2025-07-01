@@ -5,8 +5,6 @@ permalink: "/about/"
 image: assets/images/about-us.jpg
 ---
 
-# À propos de Nous
-
 Bienvenue sur **Horaires Bus** — votre portail en ligne dédié aux itinéraires et horaires des bus en France.
 
 ## Notre Mission
