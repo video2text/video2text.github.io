@@ -5,42 +5,54 @@ permalink: "/contact/"
 comments: false
 ---
 
-# Contact
+<!DOCTYPE html>
+<html lang="fr">
 
-Vous avez une question, une remarque ou un signalement à faire concernant les horaires ou les itinéraires affichés sur notre site ? Nous sommes à votre écoute.
+  <p>
+    Vous avez une question, une remarque ou un signalement à faire concernant les horaires ou les itinéraires affichés sur notre site ?
+    Nous sommes à votre écoute.
+  </p>
 
-## Nous Écrire
+  <h2>Nous Écrire</h2>
+  <p>
+    Pour toute demande d'information, suggestion d'amélioration ou notification d'erreur, vous pouvez nous contacter par email :
+  </p>
+  <p><strong>Email</strong> : <code>contact@horairesbus.github.io</code></p>
+  <p>Nous nous efforçons de répondre à tous les messages dans un délai de 24 à 48 heures.</p>
 
-Pour toute demande d'information, suggestion d'amélioration ou notification d'erreur, vous pouvez nous contacter par email :
+  <h2>Collaboration et Partenariats</h2>
+  <p>
+    Vous représentez une autorité de transport, une collectivité locale ou un projet lié à la mobilité ?
+    Nous sommes ouverts aux collaborations visant à améliorer l'accessibilité des données de transport en commun.
+  </p>
+  <p>Contactez-nous à l’adresse suivante : <code>partenariats@horairesbus.github.io</code></p>
 
-**Email** : `contact@horairesbus.github.io`
+  <h2>Formulaire de Contact</h2>
 
-Nous nous efforçons de répondre à tous les messages dans un délai de 24 à 48 heures.
+  <form action="https://formspree.io/{{site.email}}" method="POST">    
+    <p class="mb-4">
+      Merci de votre intérêt pour notre site. Veuillez nous envoyer votre message via ce formulaire. Nous vous répondrons dans les plus brefs délais.
+    </p>
 
-## Collaboration et Partenariats
+    <div class="row mb-3">
+      <div class="col-md-6">
+        <input class="form-control" type="text" name="name" placeholder="Nom*" required>
+      </div>
+      <div class="col-md-6">
+        <input class="form-control" type="email" name="_replyto" placeholder="Adresse e-mail*" required>
+      </div>
+    </div>
 
-Vous représentez une autorité de transport, une collectivité locale ou un projet lié à la mobilité ? Nous sommes ouverts aux collaborations visant à améliorer l'accessibilité des données de transport en commun.
+    <div class="mb-3">
+      <textarea rows="8" class="form-control" name="message" placeholder="Message*" required></textarea>
+    </div>
 
-Contactez-nous à l’adresse suivante : `partenariats@horairesbus.github.io`
+    <input class="btn btn-dark" type="submit" value="Envoyer">
+  </form>
 
-## Formulaire de Contact
+  <hr class="my-5">
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">Merci de votre intérêt pour notre site. Veuillez nous envoyer votre message via ce formulaire. Nous vous répondrons dans les plus brefs délais.</p>
+  <p><strong>Horaires Bus</strong> — Simplifions vos trajets ensemble.</p>
 
-<div class="form-group row">
-  <div class="col-md-6">
-    <input class="form-control" type="text" name="name" placeholder="Nom*" required>
-  </div>
-  <div class="col-md-6">
-    <input class="form-control" type="email" name="_replyto" placeholder="Adresse e-mail*" required>
-  </div>
-</div>
-
-<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
-<input class="btn btn-dark" type="submit" value="Envoyer">
-</form>
-
----
-
-**Horaires Bus** — Simplifions vos trajets ensemble.
+</body>
+</html>
