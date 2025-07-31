@@ -1,27 +1,27 @@
 # Top Menu
 topmenu:
 
-- title: Page d'accueil
+- title: Home
   url: ""
 
-- title: À Propos
+- title: About Us
   url: "about/"
 
 - title: Contact
   url: "contact/"
 
-- title: Installer l'application 
-  url: https://play.google.com/store/apps/details?id=com.karinov.horaibus
+- title: Get This App
+  url: #
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
 # Footer Menu
 footermenu:
 
-- title: Page d'accueil
+- title: Home
   url: ""
 
-- title: Politique de Confidentialité
+- title: Privacy Policy
   url: "privacy-policy/"
 
 - title: Contact
